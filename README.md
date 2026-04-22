@@ -42,8 +42,8 @@ Try the app instantly — no setup required:
 1. Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/voice-assistant.git
-cd voice-assistant
+git clone https://github.com/Navneet1135/Voice-Assistant-With-Meta-Llm.git
+cd Voice-Assistant-With-Meta-Llm
 ```
 
 2. Install dependencies:
